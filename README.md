@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm [Eddie](https://edwinho.online/)
 > Data Science student @ [UC San Diego](https://ucsd.edu/)
 
 <img src="https://komarev.com/ghpvc/?username=noodleslove" alt="noodleslove visitor count" />
@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Visitor Count
-
-![Eddie's visitor count](https://profile-counter.glitch.me/{noodleslove}/count.svg)
 
 ### Github Stats
 
