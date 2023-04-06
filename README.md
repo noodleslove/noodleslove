@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ### Programming Languages 🌐
 
-![Eddie's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=noodleslove&langs_count=5&layout=compact)
+![Eddie's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=noodleslove&langs_count=5&layout=compact&hide=rust)
