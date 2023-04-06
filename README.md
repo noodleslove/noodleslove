@@ -1,4 +1,7 @@
 ### Hi there 👋
+> Data Science student @ [UC San Diego](https://ucsd.edu/)
+
+<img src="https://komarev.com/ghpvc/?username=noodleslove" alt="noodleslove visitor count" />
 
 <!--
 **noodleslove/noodleslove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Visitor Count
+
+![Eddie's visitor count](https://profile-counter.glitch.me/{noodleslove}/count.svg)
+
+### Github Stats
+
+![Eddie's Github stats](https://github-readme-stats.vercel.app/api?username=noodleslove&count_private=true)
+
+### Programming Languages 🌐
+
+![Eddie's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=noodleslove&langs_count=5&layout=compact)
