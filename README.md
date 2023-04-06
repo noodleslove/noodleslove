@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Github Stats
+### Github Stats 📊
 
 ![Eddie's Github stats](https://github-readme-stats.vercel.app/api?username=noodleslove&count_private=true)
 
