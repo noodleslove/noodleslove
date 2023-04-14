@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 
 ### Github Stats 📊
 
-[![Eddie's Github stats](https://github-readme-stats.vercel.app/api?username=noodleslove&count_private=true)](https://github.com/noodleslove)
+[![Eddie's Github stats](https://github-readme-stats.vercel.app/api?username=noodleslove&count_private=true&show_icons=true&card_width=450)](https://github.com/noodleslove)
 
 ### Programming Languages 🌐
 
-[![Eddie's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=noodleslove&langs_count=6&layout=compact)](https://github.com/noodleslove)
+[![Eddie's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=noodleslove&langs_count=6&layout=compact&hide=jupyter%20notebook,webassembly&card_width=450)](https://github.com/noodleslove)
 
 ### LeetCode Stats ⭐️
 
