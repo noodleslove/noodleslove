@@ -21,16 +21,17 @@ Here are some ideas to get you started:
 ### Skills
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)][python_url]
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)][rust_url]
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)][javascript_url]
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)][typescript_url]
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)][react_url]
+[![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)][nodejs_url]
+[![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)][airflow_url]
 [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)][aws_url]
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)][postgresql_url]
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)][mongodb_url]
 [![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white)][cassandra_url]
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)][redis_url]
 [![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)][neo4j_url]
-[![Spark](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark&logoColor=white)][spark_url]
-[![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)][airflow_url]
 
 ### Github Stats 📊
 
@@ -46,13 +47,14 @@ Here are some ideas to get you started:
 
 
 [python_url]: https://www.python.org/
-[rust_url]: https://www.rust-lang.org/
-[javascript_url]: https://nodejs.org/en
+[javascript_url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
+[typescript_url]: https://www.typescriptlang.org/
+[react_url]: https://react.dev/
+[nodejs_url]: https://nodejs.org/en
 [aws_url]: https://aws.amazon.com/
 [postgresql_url]: https://www.postgresql.org/
 [mongodb_url]: https://www.mongodb.com/
 [cassandra_url]: https://cassandra.apache.org/_/index.html
 [redis_url]: https://redis.io/
 [neo4j_url]: https://neo4j.com/
-[spark_url]: https://spark.apache.org/
 [airflow_url]: https://airflow.apache.org/
