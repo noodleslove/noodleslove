@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ### Programming Languages 🌐
 
-[![Eddie's top languages](https://github-readme-stats-eta-silk.vercel.app/api/top-langs?username=noodleslove&langs_count=6&layout=compact&hide=html,webassembly&card_width=450)](https://github.com/noodleslove)
+[![Eddie's top languages](https://github-readme-stats-eta-silk.vercel.app/api/top-langs?username=noodleslove&langs_count=6&layout=compact&hide=jupyter%20notebook,rust,html,webassembly,mdx&card_width=450)](https://github.com/noodleslove)
 
 ### LeetCode Stats ⭐️
 
