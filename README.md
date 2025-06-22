@@ -33,14 +33,6 @@ Here are some ideas to get you started:
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)][redis_url]
 [![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)][neo4j_url]
 
-### Github Stats 📊
-
-[![Eddie's Github stats](https://github-readme-stats-eta-silk.vercel.app/api?username=noodleslove&count_private=true&show_icons=true&card_width=450)](https://github.com/noodleslove)
-
-### Programming Languages 🌐
-
-[![Eddie's top languages](https://github-readme-stats-eta-silk.vercel.app/api/top-langs?username=noodleslove&langs_count=6&layout=compact&hide=jupyter%20notebook,rust,html,webassembly,mdx&card_width=450)](https://github.com/noodleslove)
-
 ### LeetCode Stats ⭐️
 
 [![Eddie's Leetcode Stats](https://leetcard.jacoblin.cool/noodleslove)](https://leetcode.com/noodleslove)
