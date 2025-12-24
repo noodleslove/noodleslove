@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Eddie](https://edwinho.online/)
+### Hi there 👋 I'm [Eddie](https://eddieho.xyz/)
 > Data Science student @ [UC San Diego](https://ucsd.edu/)
 
 <img src="https://komarev.com/ghpvc/?username=noodleslove" alt="noodleslove visitor count" />
